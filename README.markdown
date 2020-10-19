@@ -1,4 +1,6 @@
 ![Swift Algorithm Club](Images/SwiftAlgorithm-410-transp.png)
+# ATENTION!
+This is a forked repo, this repo will probably be outdate and was made for the sole purpouse of adding the Hacktoberfest topic so it would be included in the event.
 
 # Welcome to the Swift Algorithm Club!
 
